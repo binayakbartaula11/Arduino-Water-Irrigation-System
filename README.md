@@ -154,7 +154,7 @@ Having issues? Check out these common problems and solutions:
 
 ---
 
-## 👤 Personal Presentation GIF
+## 👤 Presentation GIF
 
 This GIF captures me proudly showcasing the completed project, reflecting my personal contribution and the effort put into bringing it to life.
 
